@@ -18,3 +18,10 @@ Fresh Graduate in Informatics Engineering from Institut Teknologi Garut with fun
 [![](https://komarev.com/ghpvc/?username=ReifalgaGP&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[ReifalgaGP]/[ReifalgaGP]/output/[Pac-Man]-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[ReifalgaGP]/[ReifalgaGP]/output/[Pac-Man]-contribution-graph.svg">
+  <img alt="[game-name] contribution graph" src="https://raw.githubusercontent.com/[ReifalgaGP]/[ReifalgaGP]/output/[Pac-Man]-contribution-graph.svg">
+</picture>
+
+_generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_
